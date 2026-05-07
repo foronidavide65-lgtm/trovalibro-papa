@@ -16,3 +16,6 @@ Uso:
 
 Backup:
 Ogni tanto usare Backup -> Esporta backup.
+
+
+VERSIONE ISBN v2: migliorata la lettura ISBN da foto con libreria ZXing caricata via CDN. Richiede connessione internet per la lettura automatica ISBN.
