@@ -1,0 +1,18 @@
+TROVALIBRO – PAPÀ
+
+File inclusi:
+- index.html          = app principale
+- manifest.json      = configurazione icona/app
+- papa-sw.js         = supporto offline dopo la prima apertura
+- icon-192.png / icon-512.png = icone
+
+Uso:
+1. Aprire il link sul telefono.
+2. Aggiungi libro.
+3. Fotografa copertina.
+4. Fotografa ISBN.
+5. Scrivi dove si trova.
+6. Salva libro.
+
+Backup:
+Ogni tanto usare Backup -> Esporta backup.
